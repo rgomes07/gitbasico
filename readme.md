@@ -23,7 +23,7 @@
 
 **- Referências**
 
-![Gitcat](http://git.seduc.pa.gov.br/ricardo.gomes/gitbasico/-/raw/main/images/gitcat2.jpeg)
+![octocat](images/gicat2.jpg)
 
 # O que é GIT:
 
