@@ -189,7 +189,7 @@ Git clone é uma comando para baixar o código-fonte existente de um repositóri
 
 Há algumas maneiras de baixar o código-fonte, mas, em geral, pode se usar o **SSH** e o **HTTP**.
 
-**git clone https://github/rgomes07/gitbasico**
+**git clone https://github.com/rgomes07/gitbasico**
 
 Por exemplo, se eu quiser baixar um projeto do Github, tudo o que eu preciso fazer é clicar no botão verde (que diz "Clone"), copiar o URL da caixa logo abaixo e colá-lo após o comando git clone que mostrei logo acima.
 
