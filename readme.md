@@ -23,7 +23,7 @@
 
 **- Referências**
 
-![octocat](images/gitcat2.jpg)
+![gitcat](images/gitcat2.jpeg)
 
 # O que é GIT:
 
